@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918027865624",
+    "firebase_url": "https://citizenforum2-6f222.firebaseio.com",
+    "project_id": "citizenforum2-6f222",
+    "storage_bucket": "citizenforum2-6f222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918027865624:android:947a937aa53a355606fd6d",
+        "android_client_info": {
+          "package_name": "com.example.citizenforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918027865624-764gcqcu44u1rdu65i302frrepb49728.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citizenforum",
+            "certificate_hash": "264919ec98071b268a355d71f334d1899966c1a8"
+          }
+        },
+        {
+          "client_id": "918027865624-874k1g4kseb56gt7j5v28lus5a9ae6c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJC8HeT5MKq6DPt8XrSsOd3j--BXBIStg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918027865624-874k1g4kseb56gt7j5v28lus5a9ae6c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
